@@ -9,12 +9,15 @@
     <title>Ring</title>
 </head>
 <body>
-    <?php include "includes/nav.php"; ?>
-    <?php include "includes/header.php"; ?>
+    
+<?php include "includes/nav.php"?>
+<?php include "includes/header.php"?>
 
-    <main></main>
+    <main>
+        <h2>About Us</h2>
+    </main>
 
-    <?php include "includes/footer.php"; ?>
+    <?php include "includes/footer.php"?>
     
     
     <script src="javascript/script.js"></script>
